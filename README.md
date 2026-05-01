@@ -25,5 +25,4 @@ Kiedy nie siedzę w kodzie ani nie rozkręcam elektroniki, zajmuje mnie:
 - nauki społeczne
 
 ## kontakt
-- [**Portfolio**](https://github.com/xTapChan)
 - **E-mail:** [xtapchan@gmail.com](mailto:xtapchan@gmail.com)
