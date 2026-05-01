@@ -1,6 +1,6 @@
 # Kamil Krawczyk
 
-###  z wykształcenia technik programista
+### z wykształcenia technik programista
 
 Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z hardwearem. 
 
@@ -9,7 +9,7 @@ Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z h
 - **Systemy:** Linux (Mint XFCE na Chromebooku), OpenMediaVault (DIY lokalny NAS), Windows (zdebloatowana 11, głównie do gier)
 - **Mobile Dev:** Aplikacje na Androida (za mną również udany eksperyment z apką na iOS pisaną przez macOS na maszynie wirtualnej)
 
-## hardware & modding
+## hardware & software modding
 Nie ograniczam się do samego edytora kodu. Lubię wiedzieć, jak rzeczy działają pod maską:
 - **Homelab**: Postawiłem własny lokalny serwer NAS (OpenMediaVault) oraz środowiska do lokalnego uruchamiania LLM (Ollama, Stable Diffusion).
 - **IoT & Mikrokontrolery:** Zbudowałem dziesiątki projektów opartych na Arduino (Uno/Nano) i ESP32 (kod z czasem trafi do publicznych repozytoriów).
