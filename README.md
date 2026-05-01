@@ -11,6 +11,7 @@ Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z h
 
 ## MOJE PROJEKTY
  - **WestQuotes** - [strona internetowa](https://xtapchan.github.io/westquotes/) / [repozytorium](https://github.com/xTapChan/westquotes)
+ - **BrickBreakers** - [strona internetowa](https://xtapchan.github.io/brickbreakers/) / [repozytorium](https://github.com/xTapChan/brickbreakers)
 
 ## hardware & software modding
 Nie ograniczam się do samego edytora kodu. Lubię wiedzieć, jak rzeczy działają pod maską:
