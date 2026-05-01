@@ -2,7 +2,7 @@
 
 ### z wykształcenia technik programista
 
-Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z hardwearem. 
+Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z hardwarem. 
 
 ## stack technologiczny
 - **Języki:** Java, Python, JavaScript, HTML, CSS, C/C++ (Arduino/ESP32)
