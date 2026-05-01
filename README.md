@@ -9,6 +9,10 @@ Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z h
 - **Systemy:** Linux (Mint XFCE na Chromebooku), OpenMediaVault (DIY lokalny NAS), Windows (zdebloatowana 11, głównie do gier)
 - **Mobile Dev:** Aplikacje na Androida (za mną również udany eksperyment z apką na iOS pisaną przez macOS na maszynie wirtualnej)
 
+## MOJE PROJEKTY
+ - **WestQuotes**
+ -- [strona internetowa](https://xtapchan.github.io/westquotes/) / [repozytorium](https://github.com/xTapChan/westquotes)
+
 ## hardware & software modding
 Nie ograniczam się do samego edytora kodu. Lubię wiedzieć, jak rzeczy działają pod maską:
 - **Homelab**: Postawiłem własny lokalny serwer NAS (OpenMediaVault) oraz środowiska do lokalnego uruchamiania LLM (Ollama, Stable Diffusion).
