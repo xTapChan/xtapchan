@@ -18,7 +18,7 @@ Nie ograniczam się do samego edytora kodu. Lubię wiedzieć, jak rzeczy działa
 
 ## po godzinach
 Kiedy nie siedzę w kodzie ani nie rozkręcam elektroniki, zajmuje mnie:
-- szeroko pojętą branża IT i AI (newsy i ciekawostki)
+- szeroko pojęta branża IT i AI (newsy i ciekawostki)
 - gry wideo (zarówno aktualne tytuły, jak i retro)
 - siłownia
 - komiksy i sitcomy
