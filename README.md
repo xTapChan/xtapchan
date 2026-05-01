@@ -11,10 +11,10 @@ Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z h
 
 ## hardware & modding
 Nie ograniczam się do samego edytora kodu. Lubię wiedzieć, jak rzeczy działają pod maską:
+- **Homelab**: Postawiłem własny lokalny serwer NAS (OpenMediaVault) oraz środowiska do lokalnego uruchamiania LLM (Ollama, Stable Diffusion).
 - **IoT & Mikrokontrolery:** Zbudowałem dziesiątki projektów opartych na Arduino (Uno/Nano) i ESP32 (kod z czasem trafi do publicznych repozytoriów).
-- **Jailbreak & Custom ROMs:** Modowanie konsol (PSP, PS4) oraz smartfonów (rootowanie Androidów, wgrywanie custom ROMów, jailbreak oraz downgrade iPhone'ów).
-- **Hardware Recycling:** Zbudowałem w pełni funkcjonalny, odcięty od sieci serwer NAS (OpenMediaVault) ze starego mini PC i routera. Skonfigurowałem również lokalny serwer HTTP/NAS na starym smartfonie z użyciem Termuxa.
-- **Naprawy:** niewielki serwis sprzętu (wymiana części, chłodzenia, itp.)
+- **Jailbreak & Custom ROMy:** Modowałem konsole (PSP, PS4) oraz smartfony (rootowałem Androidy, wgrywałem custom ROMy, jailbreak oraz downgrade iPhone'ów).
+- **Naprawy:** niewielki serwis sprzętu na własną rękę (wymiana części, chłodzenia, itp.)
 
 ## po godzinach
 Kiedy nie siedzę w kodzie ani nie rozkręcam elektroniki, zajmuje mnie:
