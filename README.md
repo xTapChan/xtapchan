@@ -13,7 +13,7 @@ Piszę kod, moduję systemy i reanimuję sprzęt. Łączę świat software'u z h
  - **WestQuotes** - [strona internetowa](https://xtapchan.github.io/westquotes/) / [repozytorium](https://github.com/xTapChan/westquotes)
  - **BrickBreakers** - [strona internetowa](https://xtapchan.github.io/brickbreakers/) / [repozytorium](https://github.com/xTapChan/brickbreakers)
  - witryny **Netlify**:
-  [**krawczyk.netlify.app**](https://krawczyk.netlify.app/),
+  [****krawczyk.netlify.app****](https://krawczyk.netlify.app/),
   [tapchan.netlify.app](https://tapchan.netlify.app/)
 
 ## hardware & software modding
