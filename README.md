@@ -33,4 +33,4 @@ Kiedy nie siedzę w kodzie ani nie rozkręcam elektroniki, zajmuje mnie:
 
 ## kontakt
 - **📧 E-mail:** [xtapchan@gmail.com](mailto:xtapchan@gmail.com)
-- **📷 Instagram:** [@kamil.zachodni_](https://www.instagram.com/kamil.zachodni_/)
+- **📷 Instagram:** [@kamil.mp3](https://www.instagram.com/kamil.mp3)
