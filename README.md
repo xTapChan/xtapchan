@@ -5,6 +5,7 @@
 ***Piszę kod, moduję systemy i naprawiam sprzęty. Łączę świat software'u z hardwarem.***
 
 ## 👨🏻‍💻 stack technologiczny
+- **👨‍💻 Workflow:** głównie vibecoding, zamieniam pomysły w kod z pomocą AI
 - **🗣️ Języki:** Java, Python, JavaScript, HTML, CSS, C/C++ (Arduino/ESP32)
 - **💻 Systemy:** Linux Mint XFCE (Chromebook & Mini PC), Windows 11 (zdebloatowany na PC, głównie do gier)
 - **📱 Mobile Dev:** Aplikacje na Androida (za mną również udany eksperyment z apką na iOS pisaną przez macOS na maszynie wirtualnej)
